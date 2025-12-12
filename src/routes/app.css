@@ -1,0 +1,22 @@
+@font-face {
+  font-family: evil; /* set name */
+  src: url('../lib/assets/1942.ttf'); /* url of the font */
+}
+@font-face {
+  font-family: BeatMyGuest; /* set name */
+  src: url('../lib/assets/BeatMyGuest.otf'); /* url of the font */
+}
+@font-face {
+  font-family: HelpMe; /* set name */
+  src: url('../lib/assets/HelpMe.ttf'); /* url of the font */
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background: black;
+}
+
+
